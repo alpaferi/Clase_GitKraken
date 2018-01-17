@@ -8,5 +8,11 @@ c:
 c:
 c:
 .-.
--.-
-o.o
+
+______________________________________________________
+
+quiero realizar esta modificacion a tu archivo 
+c: 
+:L
+:o
+
